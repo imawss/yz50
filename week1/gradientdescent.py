@@ -1,7 +1,7 @@
 inputs = [0.1, 0.75, 0.42]
 
 weights1 = [
-    [9, 12, 34],
+    [2323, 12, 34],
     [10, 3, 0.86],
     [10, 3, 0.24]
 ]
@@ -12,7 +12,7 @@ samples = [24, 6, 10]
 
 h = 0.0001
 learning_rate = 0.1
-epochs = 200
+epochs = 500
 
 
 def loss(weights, bias):
